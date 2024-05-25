@@ -1,5 +1,5 @@
 # Face-recognition-with-esp32-cam
-Mô tả
+#Mô tả
 Đây là một ứng dụng đơn giản nhưng mạnh mẽ về nhận diện khuôn mặt sử dụng ESP32-CAM, một module có thể chụp hình và gửi dữ liệu hình ảnh qua WiFi. Ứng dụng này sử dụng thư viện nhận diện khuôn mặt và thư viện ESP32 để kết nối và gửi dữ liệu.
 
 Yêu cầu
