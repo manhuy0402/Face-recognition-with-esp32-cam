@@ -4,6 +4,7 @@
 
 ## Yêu cầu:
 ESP32-CAM module
+
 Arduino IDE hoặc PlatformIO
 Thư viện ESP32
 Thư viện nhận diện khuôn mặt (ví dụ: OpenCV)
